@@ -1,4 +1,4 @@
-# Electricity-bill-prediction-This README provides instructions on how to run the code for electricity price prediction and lists the dependencies required for this project.
+# Electricity-bill-prediction-
 
 
 
